@@ -113,7 +113,7 @@ const HeroSection: React.FC = () => {
       </div>
 
       {/* Bottom Edge Line - Adjusted for mobile browser UI, extra space for iOS Safari */}
-      <div className="absolute bottom-24 xs:bottom-20 sm:bottom-12 md:bottom-0 left-0 right-0 w-full border-t border-border py-4 sm:py-4 bg-background/80 backdrop-blur-sm">
+      <div className="absolute bottom-32 xs:bottom-28 sm:bottom-16 md:bottom-0 left-0 right-0 w-full border-t border-border py-4 sm:py-4 bg-background/80 backdrop-blur-sm">
         <div className="flex justify-center px-4">
           <span
             className="
